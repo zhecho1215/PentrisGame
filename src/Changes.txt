@@ -1,4 +1,1 @@
-1.There is a working NextPentominoPanel, so now the next pentomino is displayed, still it needs a better design
-2.Bug fixed where you can break something with double-click space
-3. rotation is almost perfect - sometimes you cannot rotate the piece when it is next to the board and it has non-square matrix(the piece 'i' can be rotated only if it is on the most left side)
-4.
+
